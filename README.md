@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Mustafa+Bat%C4%B1n%2C+%3Cwelcome%3E" alt="Typing SVG" /></a>
 
 # Hi there, I'm Mustafa Batın👋
-# Also check out ![my website](https://www.mbatinefe.github.io)
 
 ### Education 🎓
 - **Bachelor of Science**  @ Sabancı University (2020 - 2025) **#Computer Science and Engineering**
@@ -25,7 +24,7 @@
 
 ## 🪐 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c++,c,python,java,tensorflow,linux,nginx,github,git,mysql,mongodb,docker&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c++,c,python,java,tensorflow,linux,nginx,github,git,mysql,mongodb,docker&theme=light&perline=13" />
 </p>
 
 ![stacks](https://github.com/user-attachments/assets/1e308eeb-731b-4363-9c52-952a867337dc)
@@ -33,3 +32,5 @@
 ## 📣 Contact
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me:
 [![Linkedin: mbefe](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mbefe/)](https://www.linkedin.com/in/mbefe/)
+
+## Also check out [my website](https://www.mbatinefe.github.io)
