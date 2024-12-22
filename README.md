@@ -7,7 +7,7 @@
 - **Exchange Program** @ Hong Kong Baptist University (2023 Fall)
 - **Exchange Program** @ MAnagement Center Innsbruck (2023 Spring) 
 
-## 🚀 Projects (Will be updated soon)
+## 🚀 Projects (Will be updated soon 🏗)
 
 | Project                                                                                       | Description                                                                                         |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -24,7 +24,7 @@
 
 ## 🪐 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c++,c,python,java,tensorflow,linux,nginx,github,git,mysql,mongodb,docker&theme=light&perline=13" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,tensorflow,linux,nginx,github,git,mysql,mongodb,docker&theme=light&perline=13" />
 </p>
 
 ![stacks](https://github.com/user-attachments/assets/1e308eeb-731b-4363-9c52-952a867337dc)
@@ -33,4 +33,4 @@
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me:
 [![Linkedin: mbefe](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mbefe/)](https://www.linkedin.com/in/mbefe/)
 
-## Also check out [my website](https://www.mbatinefe.github.io)
+✈ You can also check out [my website](https://www.mbatinefe.github.io)
