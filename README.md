@@ -9,7 +9,7 @@
 
 ## 🚀 Projects (Will be updated soon 🏗)
 
-| Project                                                                                       | Description                                                                                         |
+| Project (Historically)                                                                      | Description                                                                                         |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | _**[Event Management Full Stack](https://github.com/mbatinefe/event-management-full-stack)**_ | An Event Management Website Project developed using Vue.js for both front-end and back-end.        |
 | _**[Monopoly Board Game](https://github.com/mbatinefe/monopoly-board-game)**_                 | A modified two-player turn-based Monopoly board game implemented in C++, featuring custom rules.   |
