@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Mustafa+Bat%C4%B1n%2C+%3Cwelcome%3E" alt="Typing SVG" /></a>
-
-# Hi there, I'm Mustafa Batın👋
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Mustafa+Bat%C4%B1n%2C+%3Cwelcome%3E" alt="Typing SVG" /></a>
 
 ### Education 🎓
 - **Bachelor of Science**  @ Sabancı University (2020 - 2025) **#Computer Science and Engineering**
