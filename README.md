@@ -4,7 +4,7 @@
 
 ### Education 🎓
 - **Bachelor of Science**  @ Sabancı University (2020 - 2025) **#Computer Science and Engineering**
-- **Exchange Program** @ MCI | Management Center Innsbruck (2023 Spring) 
+- **Exchange Program** @ MCI | Management Center Innsbruck (2024 Spring) 
 - **Exchange Program** @ Hong Kong Baptist University (2023 Fall)
 
 ## 🚀 Projects (Will be updated soon 🏗)
