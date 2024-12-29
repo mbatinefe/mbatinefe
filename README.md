@@ -9,8 +9,8 @@
 
 | Project (Historically)                                                                      | Description                                                                                         |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| _**[Extending a Virtual Memory, Implementation with Paging](https://github.com/mbatinefe/extending-vm-paging)**_                           |Available Soon... |
-| _**[Multi-Core Scheduling with Synchronization](https://github.com/mbatinefe/synchronization-semaphores)**_                           |Available Soon... |
+| _**[Extending a Virtual Memory Implementation with Paging](https://github.com/mbatinefe/extending-vm-paging)**_                           |Available Soon... |
+| _**[Multi-Core Scheduling with Synchronization](https://github.com/mbatinefe/)**_                           |Available Soon... |
 | _**[Synchronization with Semaphores](https://github.com/mbatinefe/synchronization-semaphores)**_                           |Available Soon... |
 | _**[Shell Simulation of the TreePipe Command](https://github.com/mbatinefe/shell-simulation-c)**_                           |Available Soon... |
 | _**[Intent Detection](https://github.com/mbatinefe/IntentDetectionNLP)**_                           |Available Soon... |
