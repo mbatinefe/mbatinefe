@@ -5,20 +5,7 @@
 - **Exchange Program** @ MCI | Management Center Innsbruck (2024 Spring) 
 - **Exchange Program** @ Hong Kong Baptist University (2023 Fall)
 
-## 🚀 Projects (Will be updated soon 🏗)
-
-
-Project (Historically)	Description
-Search Engine with AVL Search Tree	
-HK Accidents & Visitor Probabilistic Graphical Model (PGM)	
-Generative Model using MCMC-VI-GibbsSampling	
-Mini Neural Network Project	
-Turkish Backgammon Game	
-Guess Secret Number with Linked Lists
-Shape Placement in Matrix	
-Chair Race Game	
-Spotify Playlist Analysis	
-NFT Project - Educated Ape Club
+## Projects (Will be updated on Jan 12th, 2025 -> the day after finals 🏗)
 
 | Project (Historically)                                                                      | Description                                                                                         |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
