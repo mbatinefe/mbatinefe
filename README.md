@@ -1,25 +1,29 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Mustafa+Bat%C4%B1n%2C+%3Cwelcome%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Mustafa+Bat%C4%B1n%2C+%3Cwelcome%3E" alt="Typing SVG" /></a>
 
-### Education 🎓
+## Education 🎓
 - **Bachelor of Science**  @ Sabancı University (2020 - 2025) **#Computer Science and Engineering**
 - **Exchange Program** @ MCI | Management Center Innsbruck (2024 Spring) 
 - **Exchange Program** @ Hong Kong Baptist University (2023 Fall)
 
-## Projects (Will be updated on Jan 12th, 2025 -> the day after finals 🏗)
+## 🪐 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,tensorflow,linux,nginx,github,git,mysql,mongodb,docker&theme=light&perline=13" />
+</p>
+
+## Project Directory
 
 | Project (Historically)                                                                      | Description                                                                                         |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| _**[Extending a Virtual Memory Implementation with Paging](https://github.com/mbatinefe/extending-vm-paging)**_                           |Available Soon... |
-| _**[Multi-Core Scheduling with Synchronization](https://github.com/mbatinefe/)**_                           |Available Soon... |
-| _**[Synchronization with Semaphores](https://github.com/mbatinefe/synchronization-semaphores)**_                           |Available Soon... |
-| _**[Shell Simulation of the TreePipe Command](https://github.com/mbatinefe/shell-simulation-c)**_                           |Available Soon... |
-| _**[Intent Detection](https://github.com/mbatinefe/IntentDetectionNLP)**_                           |Available Soon... |
-| _**[Part-of-Speech Tagging using HMMs](https://github.com/mbatinefe/)**_                           |Available Soon... |
-| _**[Authorship Identification](https://github.com/mbatinefe/)**_                           |Available Soon... |
-| _**[Top-Down Tokenization with Regex](https://github.com/mbatinefe/)**_                           |Available Soon... |
-| _**[Vulnerable/Patched PHP Website with Exploits](https://github.com/mbatinefe/TurkishFinancialNews)**_                           |Available Soon... |
+| _**[Extending a Virtual Memory Implementation with Paging](https://github.com/mbatinefe/extending-vm-paging)**_ | Developed an extended virtual memory system implementing paging. Demonstrates concepts like page tables, TLB and memory allocation. |
+| _**[Multi-Core Scheduling with Synchronization](https://github.com/mbatinefe/multicore_scheduling)**_         | Designed and implemented a multi-core scheduling algorithm with synchronization primitives to manage resource sharing efficiently. |
+| _**[Synchronization with Barrier Semaphores](https://github.com/mbatinefe/synchronization-semaphores)**_      | Implemented barrier synchronization using semaphores to ensure efficient execution of parallel threads. |
+| _**[Shell Simulation of the TreePipe Command](https://github.com/mbatinefe/shell-simulation-c)**_             | Simulated a Linux shell command implementing `tree` and `pipe` functionalities to navigate and manipulate file hierarchies. |
+| _**[Intent Detection](https://github.com/mbatinefe/intent-detection)**_                                     | Built an NLP-based intent detection model using machine learning techniques to classify user queries effectively. |
+| _**[Part-of-Speech Tagging using HMMs](https://github.com/mbatinefe/pos-tagging-HMM)**_                        | Implemented a Part-of-Speech tagging system using Hidden Markov Models to label words in sentences with their grammatical roles. |
+| _**[Authorship Identification](https://github.com/mbatinefe/authorship-identification)**_                      | Designed a machine learning model to identify the authorship of text documents based on writing styles and linguistic patterns. |
+| _**[Top-Down Tokenization with Regex](https://github.com/mbatinefe/webtext-tokenizer)**_                       | Created a text tokenizer using regular expressions for structured parsing and tokenization of web-based text data. |
+| _**[Vulnerable/Patched PHP Website with Exploits](https://github.com/mbatinefe/TurkishFinancialNews)**_        | Built a PHP-based website to showcase vulnerabilities and implemented patches to secure it, serving as a learning resource. |
 | _**[NMT LSTM EN_TR](https://github.com/mbatinefe/NMT-LSTM-EN_TR)**_                           | Encoder-decoder neural machine translation system from English to Turkish using TensorFlow.        |
-| _**[Personal Website Vue](https://github.com/mbatinefe/personal-website-vue)**_               | A personal portfolio website built with Vue.js, showcasing my projects and professional info.      |
 | _**[Maze Game](https://github.com/mbatinefe/maze-DSA)**_                           | A LinkedList-based stack with random maze generation (DFS) algorithms. |
 | _**[Search Engine with AVL Search Tree](https://github.com/mbatinefe/search-engine-DSA)**_                           | Developed a search engine using AVL trees for fast, efficient keyword-based data retrieval. |
 | _**[HK Accidents & Visitor Probabilistic Graphical Model (PGM)](https://github.com/mbatinefe/HK_accidents-visitor_PGM)**_     | Constructed a probabilistic graphical model to analyze accident patterns and visitor probabilities in Hong Kong. |
@@ -28,6 +32,7 @@
 | _**[Generative Model using MCMC-VI-GibbsSampling](https://github.com/mbatinefe/generative-model-MCMC-Gibbs-VI)**_     | Created a generative model utilizing Variational Inference, Markov Chain Monte Carlo, and Gibbs Sampling. |
 | _**[Mini Neural Network Project](https://github.com/mbatinefe/neural-networks-mini)**_ | Built and trained a simple neural network to perform basic classification tasks.       |
 | _**[Digital Lock System](https://github.com/mbatinefe/digital-lock-system)**_                 | A digital combination lock system with user identification features.                               |
+| _**[Mealy type finite-state machine - Counter](https://github.com/mbatinefe/mealy-FSM-counter)**_                 | Mealy type finite-state machine (FSM) to detect the clockwise rotation of the encoder to increment a counter.                               |
 | _**[Istanbul Traffic Fuel Analysis](https://github.com/mbatinefe/istanbul-traffic-fuel-analysis)**_ | Data analysis project exploring Istanbul traffic patterns and fuel prices using Python.            |
 | _**[Spotify Playlist Analysis](https://github.com/mbatinefe/spotify-playlist-analysis)**_ |  Conducted exploratory data analysis on Spotify playlists to understand patterns and preferences.    |
 | _**[Web Scraping Singapore Events](https://github.com/mbatinefe/web-scraping-singapore-events)**_ | Advanced web scraping project to gather event data in Singapore using Python and Jupyter Notebook. |
@@ -39,11 +44,6 @@
 | _**[Shape Placement in Matrix](https://github.com/mbatinefe/shape-placement-matrix)**_                           | Programmed a matrix-based algorithm for placing geometric shapes dynamically. |
 | _**[Chair Race Game](https://github.com/mbatinefe/chair-race-game)**_                           | Developed chair race game with threads.|
 | _**[NFT Project - Educated Ape Club](https://github.com/mbatinefe/nft-project)**_ | Designed an NFT-based educational community with interactive features for knowledge sharing. |
-
-## 🪐 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,tensorflow,linux,nginx,github,git,mysql,mongodb,docker&theme=light&perline=13" />
-</p>
 
 ## 📣 Contact
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me:
