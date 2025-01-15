@@ -50,4 +50,4 @@
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me:
 [![Linkedin: mbefe](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mbefe/)](https://www.linkedin.com/in/mbefe/)
 
-✈ You can also check out [my website](https://www.mbatinefe.github.io)
+✈ You can also check out [my website](https://mbatinefe.github.io)
