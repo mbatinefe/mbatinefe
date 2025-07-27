@@ -7,13 +7,15 @@
 
 ## 🪐 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,tensorflow,linux,nginx,github,git,mysql,mongodb,docker&theme=light&perline=13" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,tensorflow,linux,nginx,github,git,mysql,mongodb,sqlite,vue,docker,kubernetes&theme=light&perline=13" />
 </p>
 
 ## Project Directory
 
 | Project                                                                                     | Description                                                                                         | Language/Area                                                                               |
-|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|     
+| _**[Local Text Summarizer](https://github.com/mbatinefe/local-SUMMARIZER)**_ | Built a modern, privacy-focused text summarization tool powered by Ollama AI. Summarize your documents locally without sending data to external services. | Python, NLP                                                                       |
+| _**[Local GPT Basic Chat Interface](https://github.com/mbatinefe/local-GPT)**_ | Built a modern, responsive web interface for chatting with your local Ollama AI models. Built with FastAPI backend and vanilla JavaScript frontend. | Python, NLP                                                                       |
 | _**[Extending a Virtual Memory Implementation with Paging](https://github.com/mbatinefe/extending-vm-paging)**_ | Developed an extended virtual memory system implementing paging. Demonstrates concepts like page tables, TLB and memory allocation. | C, Operating Systems                                                                       |
 | _**[Multi-Core Scheduling with Synchronization](https://github.com/mbatinefe/multicore_scheduling)**_         | Designed and implemented a multi-core scheduling algorithm with synchronization primitives to manage resource sharing efficiently. | C, Operating Systems                                                                       |
 | _**[Synchronization with Barrier Semaphores](https://github.com/mbatinefe/synchronization-semaphores)**_      | Implemented barrier synchronization using semaphores to ensure efficient execution of parallel threads. | C++, Operating Systems                                                                       |
