@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Mustafa+Bat%C4%B1n%2C+%3Cwelcome%3E" alt="Typing SVG" /></a>
 
 ## Education 🎓
-- **Bachelor of Science**  @ Sabancı University (2020 - 2025) **#Computer Science and Engineering**
-- **Exchange Program** @ MCI | Management Center Innsbruck (2024 Spring) 
-- **Exchange Program** @ Hong Kong Baptist University (2023 Fall)
+- **Bachelor of Science**  @ Sabancı University **#Computer Science and Engineering**
+- **Exchange Program** @ MCI | Management Center Innsbruck
+- **Exchange Program** @ Hong Kong Baptist University
 
 ## 🪐 Tech Stack
 <p align="left">
